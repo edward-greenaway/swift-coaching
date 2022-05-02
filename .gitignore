@@ -2,6 +2,11 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+## as per 
+## https://0xmachos.com/2020-01-22-Eradicating-.DS_Store-From-Git/
+## https://eclecticlight.co/2021/11/27/explainer-ds_store-files/ 
+excludesfile = ~/.gitignore
+
 ## User settings
 xcuserdata/
 
