@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		64659AE7283CDB3F00FE0ACB /* ConversionDataModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64659AE6283CDB3F00FE0ACB /* ConversionDataModels.swift */; };
 		64A51ED8281F8F250094A4C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A51ED7281F8F250094A4C8 /* AppDelegate.swift */; };
 		64A51EDA281F8F250094A4C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A51ED9281F8F250094A4C8 /* SceneDelegate.swift */; };
 		64A51EDC281F8F250094A4C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A51EDB281F8F250094A4C8 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		64659AE6283CDB3F00FE0ACB /* ConversionDataModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionDataModels.swift; sourceTree = "<group>"; };
 		64A51ED4281F8F250094A4C8 /* testingConversions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testingConversions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64A51ED7281F8F250094A4C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		64A51ED9281F8F250094A4C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				64A51ED7281F8F250094A4C8 /* AppDelegate.swift */,
 				64A51ED9281F8F250094A4C8 /* SceneDelegate.swift */,
 				64A51EDB281F8F250094A4C8 /* ViewController.swift */,
+				64659AE6283CDB3F00FE0ACB /* ConversionDataModels.swift */,
 				64A51EDD281F8F250094A4C8 /* Main.storyboard */,
 				64A51EE0281F8F270094A4C8 /* Assets.xcassets */,
 				64A51EE2281F8F270094A4C8 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				64A51EDC281F8F250094A4C8 /* ViewController.swift in Sources */,
+				64659AE7283CDB3F00FE0ACB /* ConversionDataModels.swift in Sources */,
 				64A51ED8281F8F250094A4C8 /* AppDelegate.swift in Sources */,
 				64A51EDA281F8F250094A4C8 /* SceneDelegate.swift in Sources */,
 			);
