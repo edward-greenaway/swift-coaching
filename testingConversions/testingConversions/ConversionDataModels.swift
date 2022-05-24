@@ -17,6 +17,12 @@ struct Temperature {
         enum metric: Float {
             case Celcius = 1.0
             case Kelvin = 2.0
+            
+            // apply different calculations
+            // func convertToCelsius(fahrenheit: Int) -> Int {
+            // return Int(5.0 / 9.0 * (Double(fahrenheit) - 32.0))
+            // }
+
         }
         return
     }
